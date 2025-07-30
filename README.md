@@ -13,7 +13,9 @@
 - Machine Learning (basic)
 
 ## 🚀 Projects
-- [Object Detection App](https://github.com/yourusername/project1)
+- [Personal Expense Tracker](https://github.com/shabana21005/Personal_expense_tracker)
+- [Password Manager](https://github.com/shabana21005/password-manager)
+  
 
 
 ## 📊 GitHub Stats
